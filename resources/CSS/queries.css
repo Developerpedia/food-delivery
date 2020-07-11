@@ -95,7 +95,7 @@
         margin-left: 0%;
     }
     
-    .app-screen { width: 46%; }
+    .app-screen { width: 46%; padding-right:13%; }
     .steps-box:first-child { text-align: center; }
     
     .works-step div {
