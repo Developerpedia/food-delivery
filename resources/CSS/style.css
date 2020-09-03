@@ -492,10 +492,6 @@ h4{
 /* --------------------------- */
 /* -----CONTACT FORM ----- */
 /* --------------------------- */
-form {
-  padding-left: 400px;
-  padding-right: 400px;
-}
 
 input[type=text], select, textarea{
   width: 100%;
