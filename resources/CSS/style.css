@@ -114,8 +114,6 @@ a:visited{
     text-decoration:none;
     padding-bottom:1px;
     border-bottom:1px solid #e67e22;
-    -webkit-transition:border-bottom 0.2s, color 0.2s;
-    transition:border-bottom 0.2s, color 0.2s
 }
 
 a:hover,
@@ -138,7 +136,7 @@ a:active{
 
 .btn-full:link, 
 .btn-full:visited{
-    background-color:linear-gradient(to right, #fe8c00, #f83600);
+    background-color:#fd6b00;
     border:1px solid #fd6b00;
     color:#fff;
 }
@@ -152,7 +150,7 @@ a:active{
 
 .btn:hover, 
 .btn:active{
-    background-color:#fd6b00;
+    background-color:#d96814;
 }
 
 .btn-full:hover, 
