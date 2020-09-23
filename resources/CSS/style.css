@@ -90,7 +90,7 @@ h2:after{
 .icon-big{
     font-size:350%;
     display:block;
-    color:#e67e22;
+    color:#fd6b00;
     margin-bottom:10px;
 }
 
@@ -98,7 +98,7 @@ h2:after{
     display:inline-block;
     width:30px;
     text-align: center;
-    color:#e67e22;
+    color:#fd6b00;
     font-size:120%;
 /* secrets to align text and icons */
     line-height:100%;
@@ -138,8 +138,8 @@ a:active{
 
 .btn-full:link, 
 .btn-full:visited{
-    background-color:#e67e22;
-    border:1px solid #e67e22;
+    background-color:linear-gradient(to right, #fe8c00, #f83600);
+    border:1px solid #fd6b00;
     color:#fff;
 }
 
@@ -152,7 +152,7 @@ a:active{
 
 .btn:hover, 
 .btn:active{
-    background-color:#bf6516;
+    background-color:#fd6b00;
 }
 
 .btn-full:hover, 
