@@ -106,7 +106,7 @@
         font-size: 12float: 
     } 
      
-    .column{ width:40%; display: block; padding-left: 16px;}
+    .column{ width:44%; display: block;}
     
     .works-step { margin-bottom: 30px;  }
     .works-step:last-of-type { margin-bottom: 30px; }
