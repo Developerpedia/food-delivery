@@ -115,7 +115,8 @@
      
     .pizza { flex-wrap: wrap; }
     .pizza__hero { flex-basis: 100%;}
-    .pizza__price { writing-mode: horizontal-tb; flex:1;}
+    .pizza__price { writing-mode: horizontal-tb; flex:1; background: linear-gradient(to right, #67b26f, #4ca2cd);}
+    .pizza__content { flex:3;}
 }
 
 /* Small phones: from 0 to 480px */
