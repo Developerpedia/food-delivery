@@ -115,7 +115,7 @@
      
     .pizza__img { height: 55vh; }
     .flexbox{ flex-direction: column; }
-    .pizza__content{ flex-direction: column; flex-basis: 30px;}
+    .pizza__content{ flex-direction: column; flex-basis: 35px;}
     .pizza__title { flex-direction: column;}
     .pizza__hero { flex-direction: column; flex-basis:140px;}
     .pizza__details {flex-direction: column;}
