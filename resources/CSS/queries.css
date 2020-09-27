@@ -113,7 +113,7 @@
     
     .modal-content { width:1000px; max-width:100%;}
      
-    .pizza__img { height: 55vh; }
+    .pizza__img { height: 30vh; }
     .flexbox{ flex-direction: column; }
     .pizza__content{ flex-direction: column; flex-basis: 25px;}
     .pizza__title { flex-direction: column;}
