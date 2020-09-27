@@ -83,7 +83,7 @@
 
     .sticky .main-nav li a:link,
     .sticky .main-nav li a:visited { padding: 10px 0; }
-    .sticky .mobile-nav-icon { margin-top: 10px; }
+    .sticky .mobile-nav-icon { margin-top: 10px; border-bottom:none; }
     .sticky .mobile-nav-icon i{ color: #555; }
     
     
@@ -98,7 +98,6 @@
     .app-screen { width: 45%; }
     .steps-box:first-child { text-align: center; }
     
-    .modal-content { width:1000px; max-width:100%;}
     .works-step div {
         height: 40px;
         width: 40px;
@@ -106,12 +105,13 @@
         padding-left: 4px;
         font-size: 12float: 
     } 
-     
-    .column{ width:44%; display: block;}
     
     .works-step { margin-bottom: 30px;  }
     .works-step:last-of-type { margin-bottom: 30px; }
     
+     .column{ width:42%;}
+    
+    .modal-content { width:1000px; max-width:100%;}
      
     .pizza__content{ flex-direction: column;}
     .pizza__title { flex-direction: column;float: left;}
